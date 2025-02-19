@@ -21,4 +21,3 @@ class Solution {
 //dry run this method if not understand :)
     }
 }
-
